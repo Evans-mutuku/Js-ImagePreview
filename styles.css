@@ -1,0 +1,25 @@
+  /* Style the button */
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  /* Style the file input */
+  input[type=file] {
+    display: none;
+  }
+  
+  /* Style the image preview */
+  #image-preview {
+    max-width: 100%;
+    max-height: 400px;
+    margin-top: 10px;
+  }
